@@ -1,4 +1,4 @@
-+========================================= | Maze | ==========================================+
++======================================== | Maze | =========================================+
 
 Hra je dvojrozmerný svet, v ktorom musíte princa ">" viesť mätúcou suterénnou chodbou hradu, ktorá má dve poschodia a ľahké pochodne iba v najtmavších rohoch, takže všetko brnenie je dobre osvetlené.
 
