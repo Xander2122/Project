@@ -16,7 +16,7 @@ Keď princ nájde neviditeľnú stenu a prechádza cez ňu, ta bezpečne zmizne.
 
 Po zapálení všetkých pochodní v miestnosti sa objavil zahusťujúci dym, po ktorom princ padol na zem a po chvíli sa prebudil vo svojom sídle(hra končí ako víťazstvo).
 
-============================================================================================
+===========================================================================================
 
 +----------------+
 
@@ -34,7 +34,7 @@ Potom príkazový riadok zobrazí dve správy, čo hra úspešne skompilovala:
 
 Ak chcete začať hrať, musíte napísať príkaz "./program". Potom sa hra začne a bude fungovať.
 
-============================================================================================
+===========================================================================================
 
 +------------------+
 
@@ -62,4 +62,4 @@ void generate_second() – generácia druhého poschodia
 
 int main() – toto je hlavná funkcia, ktorá vykonáva inicializáciu a prípravu ncurses. Potom začne bežať herný cyklus ,v ktorom je switch (tlačidlo spracovania stlačí vpravo, vľavo, hore, dole na klávesnici).
 
-============================================================================================
+===========================================================================================
