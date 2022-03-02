@@ -62,4 +62,4 @@ void generate_second() – generácia druhého poschodia
 
 int main() – toto je hlavná funkcia, ktorá vykonáva inicializáciu a prípravu ncurses. Potom začne bežať herný cyklus ,v ktorom je switch (tlačidlo spracovania stlačí vpravo, vľavo, hore, dole na klávesnici).
 
-===============================================================================================
+============================================================================================
